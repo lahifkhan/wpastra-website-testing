@@ -98,6 +98,6 @@ The website is generally functional; however, several usability, UI consistency,
 **Prepared By:**
 Nuhath Khan Lahif
 
-**Role:** Frontend Developer / QA Tester
+**Role:** QA Tester
 
 **Date:** July 2026
